@@ -22,8 +22,8 @@ https://github.com/soCzech/TransNetV2
  # TODO  
  
  
- https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neural-Networks-and-kNN  
- https://github.com/melgharib/DSBD  
+ https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neural-Networks-and-kNN  - пока не запускается
+ https://github.com/melgharib/DSBD                                                                   - на matlab
  
  
  https://habr.com/ru/company/ivi/blog/497428/ -                                                        статья про объединение шотов в сцены    
