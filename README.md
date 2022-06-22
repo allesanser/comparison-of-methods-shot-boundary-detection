@@ -26,10 +26,15 @@ https://github.com/soCzech/TransNetV2
  ![1a512101-1389-4a09-9a79-552ae50fed8a](https://user-images.githubusercontent.com/52531828/175001668-7e23894e-c16b-4d6f-8e3e-41d803d444f0.png)  
  This model is used in Googl's mediapipe. 
  
+ ## SceneSeg
+ https://github.com/AnyiRao/SceneSeg 
+ 
+ <a href="https://colab.research.google.com/drive/1dH95TWU47wKXSaoV_IHWktmjYy8Su7BR?authuser=1#scrollTo=fpqcPnyR8vRg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>  
+ On a simple video, it gave out shots like the previous model.
+Checking the quality of the scenes
  
  # TODO  
  
- https://github.com/AnyiRao/SceneSeg                                                              - вроде хорошая модель, с ней повожусь
 
 https://github.com/Tangshitao/ClipShots_basline - пока не запускается  
 https://github.com/melgharib/DSBD                                                                   - на matlab
