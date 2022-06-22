@@ -21,13 +21,12 @@ https://github.com/soCzech/TransNetV2
  
  # TODO  
  
- https://habr.com/ru/company/ivi/blog/497428/                                                          иви  
  https://habr.com/ru/company/ivi/blog/497428/ -                                                        статья про объединение шотов в сцены    
  https://github.com/johmathe/Shotdetect -                                                              приложение, вроде чисто на алгоритмах работает  
  https://github.com/Tangshitao/ClipShots_basline -                                                     проверить  
  https://github.com/yahoo/hecate -                                                                     библиотека на C++  
  https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neural-Networks-and-kNN  
- https://github.com/StanLei52/GEBD                                                                      Просто бенчмарк
+ https://github.com/melgharib/DSBD
 
  
  
