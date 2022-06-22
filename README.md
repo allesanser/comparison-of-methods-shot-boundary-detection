@@ -29,7 +29,8 @@ https://github.com/soCzech/TransNetV2
  
  # TODO  
  
- 
+ https://github.com/AnyiRao/SceneSeg                                                              - вроде хорошая модель, с ней повожусь
+
 https://github.com/Tangshitao/ClipShots_basline - пока не запускается  
 https://github.com/melgharib/DSBD                                                                   - на matlab
  
