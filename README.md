@@ -15,6 +15,7 @@ Most shot boundary detection algorithms work in 2 steps:
 used for automatic classification.
 * An additional step can be filtering frames for false positive detections.
 
+![image](https://user-images.githubusercontent.com/52531828/175067025-01a56a06-79df-453c-a5a9-4255c479fbaf.png)
 
 # Models
 ## TransNet V2: Shot Boundary Detection Neural Network
