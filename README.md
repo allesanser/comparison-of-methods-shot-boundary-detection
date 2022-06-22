@@ -37,7 +37,7 @@ https://github.com/melgharib/DSBD                                               
  
  https://github.com/johmathe/Shotdetect -                                                              приложение, вроде чисто на алгоритмах работает  
  https://github.com/yahoo/hecate -                                                                     библиотека на C++  
- https://arxiv.org/pdf/2109.01057.pdf                                                                  ребяты из МГУ делали, найти код
+ https://arxiv.org/pdf/2109.01057.pdf                                                                  ребяты из МГУ делали, найти код  
  https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neural-Networks-and-kNN
 
 
