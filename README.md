@@ -30,15 +30,15 @@ https://github.com/soCzech/TransNetV2
  # TODO  
  
  
- https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neural-Networks-and-kNN  - пока не запускается
- https://github.com/melgharib/DSBD                                                                   - на matlab
+https://github.com/Tangshitao/ClipShots_basline - пока не запускается  
+https://github.com/melgharib/DSBD                                                                   - на matlab
  
  
- https://habr.com/ru/company/ivi/blog/497428/ -                                                        статья про объединение шотов в сцены    
  https://github.com/johmathe/Shotdetect -                                                              приложение, вроде чисто на алгоритмах работает  
- https://github.com/Tangshitao/ClipShots_basline -                                                     проверить  
  https://github.com/yahoo/hecate -                                                                     библиотека на C++  
  https://arxiv.org/pdf/2109.01057.pdf                                                                  ребяты из МГУ делали, найти код
+ https://github.com/soCzech/LookForTheChange
+ https://github.com/hoffsupes/Shot-boundary-detection-using-SVM-s-Aritificial-Neural-Networks-and-kNN
 
 
  
