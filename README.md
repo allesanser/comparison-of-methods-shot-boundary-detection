@@ -6,7 +6,14 @@ First of all, a little about the structure of a video sequence. Video consists o
 
 There are two approaches for finding scene boundaries:  
 1) Take the whole video and search for scene boundaries  
-2) First, divide the video into shots and then merge them into scenes  
+2) First, divide the video into shots and then merge them into scenes   
+
+
+Most shot boundary detection algorithms work in 2 steps:
+* Calculating the value of the frame difference metric or metrics
+* Setting the threshold for frame classification. Also at this stage, machine learning is often
+used for automatic classification.
+* An additional step can be filtering frames for false positive detections.
 
 
 # Models
