@@ -24,14 +24,17 @@ https://github.com/soCzech/TransNetV2
  <a href="https://colab.research.google.com/drive/1Zaip4cc1FzplanXoviUxN5Zbu4CaoiX5?authuser=1#scrollTo=LHPLHWirC4mQ"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>  
    The model performs quite well. The picture shows all the frames in the video, and you can see blue bars on the boundaries of the scenes - the model's prediction that a scene has ended/began. Video processing speed - extremely fast.  
  ![1a512101-1389-4a09-9a79-552ae50fed8a](https://user-images.githubusercontent.com/52531828/175001668-7e23894e-c16b-4d6f-8e3e-41d803d444f0.png)  
+ Handles complex video well, too. (https://www.youtube.com/watch?v=rT22nYLaVbo&t=315s&ab_channel=DarryVideoEdit). False transitions are marked in red and true transitions in green. 
+ ![Iron mp4 vis](https://user-images.githubusercontent.com/52531828/175267863-e9bf5992-fe52-43d8-89fb-a509f9c0525c.png)
+
  This model is used in Googl's mediapipe. 
  
  ## SceneSeg
  https://github.com/AnyiRao/SceneSeg 
  
  <a href="https://colab.research.google.com/drive/1dH95TWU47wKXSaoV_IHWktmjYy8Su7BR?authuser=1#scrollTo=fpqcPnyR8vRg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>  
- On a simple video, it gave out shots like the previous model.
-Checking the quality of the scenes
+ On a simple video, it gave out shots like the previous model.  
+Performs worse with large videos than the previous model. Processing speed ~ 160 fps
  
  # TODO  
  
